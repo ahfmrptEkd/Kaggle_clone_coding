@@ -9,8 +9,11 @@ Competition 및 커널 선정은 캐글코리아 **[이유한님의 커널커리
 <br>
 [image](./image/book.jpg)
 ---
+<!--    1개의 프로젝트 3번 필사, 하루 1번 필사, 
+        주마다 2개의 프로젝트
+  -->
 
-## Projects
+## Projects 
 
 ### Binary classification - Tabular data -
 
