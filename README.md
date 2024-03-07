@@ -7,7 +7,7 @@
 즉, 하나의 커널당 3번을 분석했습니다. <br><br>
 Competition 및 커널 선정은 캐글코리아 **[이유한님의 커널커리큘럼](https://aifrenz.github.io/present_file/커널커리큘럼.pdf)** 과 **"캐글 메달리스트가 알려주는 캐글 노하우"** 책을 참고했습니다.
 <br>
-[image](./image/book.jpg)
+![image](./image/book.jpg)
 ---
 <!--    1개의 프로젝트 3번 필사, 하루 1번 필사, 
         주마다 2개의 프로젝트
